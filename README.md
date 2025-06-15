@@ -37,7 +37,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 How to Run
 Clone the repository:
 bash
-git clone https://github.com/yourusername/titanic-survival-prediction.gitcd titanic-survival-prediction
+git clone https://github.com/Arpit2744/titanic-survival-prediction.gitcd titanic-survival-prediction
 
 
 Open Titanic.ipynb in Jupyter Notebook or VS Code
